@@ -2,16 +2,25 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/clouddemo.iml" filepath="$PROJECT_DIR$/clouddemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-demo.iml" filepath="$PROJECT_DIR$/cloud-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/config-client/config-client.iml" filepath="$PROJECT_DIR$/config-client/config-client.iml" />
+      <module fileurl="file://D:\code\cloud-demo\config-client\config-client.iml" filepath="D:\code\cloud-demo\config-client\config-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/config-server-git/config-server-git.iml" filepath="$PROJECT_DIR$/config-server-git/config-server-git.iml" />
+      <module fileurl="file://D:\code\cloud-demo\config-server-git\config-server-git.iml" filepath="D:\code\cloud-demo\config-server-git\config-server-git.iml" />
       <module fileurl="file://$PROJECT_DIR$/consul-client/consul-client.iml" filepath="$PROJECT_DIR$/consul-client/consul-client.iml" />
+      <module fileurl="file://D:\code\cloud-demo\consul-client\consul-client.iml" filepath="D:\code\cloud-demo\consul-client\consul-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/eureka-client/eureka-client.iml" />
+      <module fileurl="file://D:\code\cloud-demo\eureka-client\eureka-client.iml" filepath="D:\code\cloud-demo\eureka-client\eureka-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-client-2/eureka-client-2.iml" filepath="$PROJECT_DIR$/eureka-client-2/eureka-client-2.iml" />
+      <module fileurl="file://D:\code\cloud-demo\eureka-client-2\eureka-client-2.iml" filepath="D:\code\cloud-demo\eureka-client-2\eureka-client-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-consumer/eureka-consumer.iml" filepath="$PROJECT_DIR$/eureka-consumer/eureka-consumer.iml" />
+      <module fileurl="file://D:\code\cloud-demo\eureka-consumer\eureka-consumer.iml" filepath="D:\code\cloud-demo\eureka-consumer\eureka-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-consumer-feign/eureka-consumer-feign.iml" filepath="$PROJECT_DIR$/eureka-consumer-feign/eureka-consumer-feign.iml" />
+      <module fileurl="file://D:\code\cloud-demo\eureka-consumer-feign\eureka-consumer-feign.iml" filepath="D:\code\cloud-demo\eureka-consumer-feign\eureka-consumer-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-consumer-ribbon/eureka-consumer-ribbon.iml" filepath="$PROJECT_DIR$/eureka-consumer-ribbon/eureka-consumer-ribbon.iml" />
+      <module fileurl="file://D:\code\cloud-demo\eureka-consumer-ribbon\eureka-consumer-ribbon.iml" filepath="D:\code\cloud-demo\eureka-consumer-ribbon\eureka-consumer-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://D:\code\cloud-demo\eureka-server\eureka-server.iml" filepath="D:\code\cloud-demo\eureka-server\eureka-server.iml" />
     </modules>
   </component>
 </project>
